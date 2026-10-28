@@ -1,0 +1,16 @@
+numpy
+matplotlib
+opencv-python
+pillow
+scikit-image
+scikit-learn
+seaborn
+
+# Homework 3 colorization and Homework 4
+tensorflow
+
+# Final project
+torch
+torchvision
+datasets
+tqdm
